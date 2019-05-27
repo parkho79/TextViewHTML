@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TextView sample</string>
+
+    <string name="html_content" translatable="false">
+      <![CDATA[
+      <h1>H1 Title</h1>
+      <h2>H2 Title</h2>
+      <p>Paragraph<br>
+      New line<br>
+      <a href="http://parkho79.tistory.com">Supported links</a><br>
+      <b>Bold text</b><br>
+      <u>Underscore</u></p>
+      ]]>
+   </string>
+</resources>
